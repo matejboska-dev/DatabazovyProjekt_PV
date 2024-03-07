@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj": {}
+    "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj": {
+    "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj",
+        "projectUniqueName": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj",
         "projectName": "PV_DatabaseProject_MatejBoska",
-        "projectPath": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj",
+        "projectPath": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj",
         "packagesPath": "C:\\Users\\Mattheww\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\obj\\",
+        "outputPath": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

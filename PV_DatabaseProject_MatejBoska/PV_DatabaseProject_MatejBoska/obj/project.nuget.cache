@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DQrfwyq6YZlXWOGinF34q18Osi+RPpbhD5PLCc3jtpNCi73tN64nPpfKZtRc22VTZx5qSvkZZekIjQ5g+ygs6w==",
+  "dgSpecHash": "fd4l0Jy/ts2goBPWpI+uBOv0B5Ce1fRRb3FwvOvhtqrQU5IV30TISFnmsNs+ofX+afxDoV/Riv3Nf9gVxcTjdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj",
+  "projectFilePath": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mattheww\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Mattheww\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -1,29 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\",
+  "WorkspaceRootPath": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|c:\\users\\mattheww\\onedrive\\plocha\\screenredfilter\\screenredfilter\\pv_databaseproject_matejboska\\pv_databaseproject_matejboska\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|solutionrelative:pv_databaseproject_matejboska\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|c:\\users\\mattheww\\onedrive\\dokumenty\\github\\databazovyprojekt_pv\\pv_databaseproject_matejboska\\pv_databaseproject_matejboska\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|solutionrelative:pv_databaseproject_matejboska\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|c:\\users\\mattheww\\onedrive\\plocha\\screenredfilter\\screenredfilter\\pv_databaseproject_matejboska\\pv_databaseproject_matejboska\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|solutionrelative:pv_databaseproject_matejboska\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|c:\\users\\mattheww\\onedrive\\dokumenty\\github\\databazovyprojekt_pv\\pv_databaseproject_matejboska\\pv_databaseproject_matejboska\\interfaces\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|solutionrelative:pv_databaseproject_matejboska\\interfaces\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|c:\\users\\mattheww\\onedrive\\plocha\\screenredfilter\\screenredfilter\\pv_databaseproject_matejboska\\pv_databaseproject_matejboska\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|c:\\users\\mattheww\\onedrive\\dokumenty\\github\\databazovyprojekt_pv\\pv_databaseproject_matejboska\\pv_databaseproject_matejboska\\singleton\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|solutionrelative:pv_databaseproject_matejboska\\singleton\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|c:\\users\\mattheww\\onedrive\\dokumenty\\github\\databazovyprojekt_pv\\pv_databaseproject_matejboska\\pv_databaseproject_matejboska\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|solutionrelative:pv_databaseproject_matejboska\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|c:\\users\\mattheww\\onedrive\\dokumenty\\github\\databazovyprojekt_pv\\pv_databaseproject_matejboska\\pv_databaseproject_matejboska\\tabulky\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|solutionrelative:pv_databaseproject_matejboska\\tabulky\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|c:\\users\\mattheww\\onedrive\\dokumenty\\github\\databazovyprojekt_pv\\pv_databaseproject_matejboska\\pv_databaseproject_matejboska\\tabulky\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|solutionrelative:pv_databaseproject_matejboska\\tabulky\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|c:\\users\\mattheww\\onedrive\\dokumenty\\github\\databazovyprojekt_pv\\pv_databaseproject_matejboska\\pv_databaseproject_matejboska\\tabulky\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|solutionrelative:pv_databaseproject_matejboska\\tabulky\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|c:\\users\\mattheww\\onedrive\\dokumenty\\github\\databazovyprojekt_pv\\pv_databaseproject_matejboska\\pv_databaseproject_matejboska\\tabulky\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|solutionrelative:pv_databaseproject_matejboska\\tabulky\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|c:\\users\\mattheww\\onedrive\\dokumenty\\github\\databazovyprojekt_pv\\pv_databaseproject_matejboska\\pv_databaseproject_matejboska\\tabulky\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|solutionrelative:pv_databaseproject_matejboska\\tabulky\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|c:\\users\\mattheww\\onedrive\\dokumenty\\github\\databazovyprojekt_pv\\pv_databaseproject_matejboska\\pv_databaseproject_matejboska\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|solutionrelative:pv_databaseproject_matejboska\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mattheww\\OneDrive\\Plocha\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|c:\\users\\mattheww\\onedrive\\plocha\\screenredfilter\\screenredfilter\\pv_databaseproject_matejboska\\pv_databaseproject_matejboska\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|solutionrelative:pv_databaseproject_matejboska\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|c:\\users\\mattheww\\onedrive\\plocha\\screenredfilter\\screenredfilter\\pv_databaseproject_matejboska\\pv_databaseproject_matejboska\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BF51BC6-3AEB-4386-BDBD-87372B7FA78A}|PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj|solutionrelative:pv_databaseproject_matejboska\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,64 +57,12 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\App.config",
-              "RelativeDocumentMoniker": "PV_DatabaseProject_MatejBoska\\App.config",
-              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\App.config",
-              "RelativeToolTip": "PV_DatabaseProject_MatejBoska\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-07T18:27:11.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DatabaseSingleton.cs",
-              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\DatabaseSingleton.cs",
-              "RelativeDocumentMoniker": "PV_DatabaseProject_MatejBoska\\DatabaseSingleton.cs",
-              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\DatabaseSingleton.cs",
-              "RelativeToolTip": "PV_DatabaseProject_MatejBoska\\DatabaseSingleton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T17:53:05.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\App.config",
-              "RelativeDocumentMoniker": "..\\..\\..\\App.config",
-              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\App.config",
-              "RelativeToolTip": "..\\..\\..\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-07T18:18:32.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\IDAO.cs",
-              "RelativeDocumentMoniker": "PV_DatabaseProject_MatejBoska\\IDAO.cs",
-              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\IDAO.cs",
-              "RelativeToolTip": "PV_DatabaseProject_MatejBoska\\IDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T17:51:49.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IBase.cs",
-              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\IBase.cs",
-              "RelativeDocumentMoniker": "PV_DatabaseProject_MatejBoska\\IBase.cs",
-              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\IBase.cs",
-              "RelativeToolTip": "PV_DatabaseProject_MatejBoska\\IBase.cs",
+              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Interfaces\\IBase.cs",
+              "RelativeDocumentMoniker": "PV_DatabaseProject_MatejBoska\\Interfaces\\IBase.cs",
+              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Interfaces\\IBase.cs",
+              "RelativeToolTip": "PV_DatabaseProject_MatejBoska\\Interfaces\\IBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T17:51:18.285Z",
@@ -102,16 +70,131 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "IDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Interfaces\\IDAO.cs",
+              "RelativeDocumentMoniker": "PV_DatabaseProject_MatejBoska\\Interfaces\\IDAO.cs",
+              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Interfaces\\IDAO.cs",
+              "RelativeToolTip": "PV_DatabaseProject_MatejBoska\\Interfaces\\IDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:51:49.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Program.cs",
               "RelativeDocumentMoniker": "PV_DatabaseProject_MatejBoska\\Program.cs",
-              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\ScreenRedFilter\\ScreenRedFilter\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Program.cs",
+              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Program.cs",
               "RelativeToolTip": "PV_DatabaseProject_MatejBoska\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T17:37:32.159Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Singleton\\DatabaseSingleton.cs",
+              "RelativeDocumentMoniker": "PV_DatabaseProject_MatejBoska\\Singleton\\DatabaseSingleton.cs",
+              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Singleton\\DatabaseSingleton.cs",
+              "RelativeToolTip": "PV_DatabaseProject_MatejBoska\\Singleton\\DatabaseSingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:53:05.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Tabulky\\OrderItem.cs",
+              "RelativeDocumentMoniker": "PV_DatabaseProject_MatejBoska\\Tabulky\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Tabulky\\OrderItem.cs",
+              "RelativeToolTip": "PV_DatabaseProject_MatejBoska\\Tabulky\\OrderItem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:50:51.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Tabulky\\Order.cs",
+              "RelativeDocumentMoniker": "PV_DatabaseProject_MatejBoska\\Tabulky\\Order.cs",
+              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Tabulky\\Order.cs",
+              "RelativeToolTip": "PV_DatabaseProject_MatejBoska\\Tabulky\\Order.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:50:10.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Tabulky\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "PV_DatabaseProject_MatejBoska\\Tabulky\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Tabulky\\ProductCategory.cs",
+              "RelativeToolTip": "PV_DatabaseProject_MatejBoska\\Tabulky\\ProductCategory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:49:28.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Tabulky\\Product.cs",
+              "RelativeDocumentMoniker": "PV_DatabaseProject_MatejBoska\\Tabulky\\Product.cs",
+              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Tabulky\\Product.cs",
+              "RelativeToolTip": "PV_DatabaseProject_MatejBoska\\Tabulky\\Product.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvx8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:48:27.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Tabulky\\Customer.cs",
+              "RelativeDocumentMoniker": "PV_DatabaseProject_MatejBoska\\Tabulky\\Customer.cs",
+              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\Tabulky\\Customer.cs",
+              "RelativeToolTip": "PV_DatabaseProject_MatejBoska\\Tabulky\\Customer.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:45:13.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\App.config",
+              "RelativeDocumentMoniker": "PV_DatabaseProject_MatejBoska\\App.config",
+              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\App.config",
+              "RelativeToolTip": "PV_DatabaseProject_MatejBoska\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-07T18:27:11.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\App.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Plocha\\App.config",
+              "ToolTip": "C:\\Users\\Mattheww\\OneDrive\\Plocha\\App.config",
+              "RelativeToolTip": "..\\..\\..\\..\\Plocha\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-07T18:18:32.217Z"
             }
           ]
         }

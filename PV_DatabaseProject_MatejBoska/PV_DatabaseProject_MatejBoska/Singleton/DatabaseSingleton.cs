@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PV_DatabaseProject_MatejBoska
+namespace PV_DatabaseProject_MatejBoska.Singleton
 {
     // Zkopirovano z projektu Mineraly na Moodle
     public class DatabaseSingleton
