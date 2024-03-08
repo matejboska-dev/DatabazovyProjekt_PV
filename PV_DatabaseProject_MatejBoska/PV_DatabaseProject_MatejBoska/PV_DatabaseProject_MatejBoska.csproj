@@ -8,12 +8,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="DAO_pro_tabulky\**" />
+    <EmbeddedResource Remove="DAO_pro_tabulky\**" />
+    <None Remove="DAO_pro_tabulky\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="8.0.0" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DAO_pro_tabulky\" />
+    <Folder Include="DAO\" />
+    <Folder Include="Menu\" />
   </ItemGroup>
 
 </Project>

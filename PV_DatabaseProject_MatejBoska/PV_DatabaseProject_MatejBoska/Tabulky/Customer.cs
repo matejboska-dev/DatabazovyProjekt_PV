@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PV_DatabaseProject_MatejBoska.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PV_DatabaseProject_MatejBoska.Tabulky
 {
-    internal class Customer
+    internal class Customer : IBase
     {
         private int customer_id;
         private string first_name;
@@ -19,6 +20,7 @@ namespace PV_DatabaseProject_MatejBoska.Tabulky
         public string LastName { get => last_name; set => last_name = value; }
         public string Email { get => email; set => email = value; }
         public string PhoneNumber { get => phone_number; set => phone_number = value; }
+        public int ID { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
         public Customer(int customer_id, string first_name, string last_name, string email, string phone_number)
         {

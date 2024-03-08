@@ -572,24 +572,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mattheww\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj",
       "projectName": "PV_DatabaseProject_MatejBoska",
-      "projectPath": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj",
-      "packagesPath": "C:\\Users\\Mattheww\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mattheww\\OneDrive\\Dokumenty\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\DatabazovyProjekt_PV\\PV_DatabaseProject_MatejBoska\\PV_DatabaseProject_MatejBoska\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Mattheww\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PV_DatabaseProject_MatejBoska.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PV_DatabaseProject_MatejBoska.Tabulky
 {
-    internal class Product
+    internal class Product : IBase
     {
         private int product_id;
         private string product_name;
@@ -19,6 +20,7 @@ namespace PV_DatabaseProject_MatejBoska.Tabulky
         public float Price { get => price; set => price = value; }
         public int StockQuantity { get => stock_quantity; set => stock_quantity = value; }
         public int CategoryID { get => category_id; set => category_id = value; }
+        public int ID { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
         public Product(int product_id, string product_name, float price, int stock_quantity, int category_id)
         {
