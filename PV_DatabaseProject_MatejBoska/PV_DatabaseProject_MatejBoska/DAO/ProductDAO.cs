@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PV_DatabaseProject_MatejBoska
+namespace PV_DatabaseProject_MatejBoska.DAO
 {
     internal class ProductDAO : IDAO<Product>
     {

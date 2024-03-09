@@ -1,10 +1,12 @@
-﻿namespace PV_DatabaseProject_MatejBoska
+﻿using PV_DatabaseProject_MatejBoska.Menu;
+
+namespace PV_DatabaseProject_MatejBoska
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            new MainMenu().Start();
         }
     }
 }
