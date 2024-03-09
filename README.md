@@ -1,7 +1,7 @@
 
 # PV_DatabaseProject_MatejBoska
 
-Úvod
+# Úvod
 Tento projekt slouží k vytvoření a správě databáze pro podnikový systém, který eviduje informace o zákaznících, produktech, objednávkách a dalších entitách. Databáze je navržena v programovacím jazyce C# s využitím přístupu k relační databázi pomocí technologie ADO.NET. Projekt je rozdělen do několika tříd, které zajišťují práci s jednotlivými tabulkami v databázi.
 
 Změny ve třídě DatabaseSingleton
