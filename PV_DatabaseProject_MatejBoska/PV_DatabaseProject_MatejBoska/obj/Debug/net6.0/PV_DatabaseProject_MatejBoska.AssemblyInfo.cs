@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PV_DatabaseProject_MatejBoska")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb5907dd39a8eb28ebbbeb3243917a40557dd5ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+162aeb448948184f10ed5d94a8f65e88d5a2c18f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PV_DatabaseProject_MatejBoska")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PV_DatabaseProject_MatejBoska")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
